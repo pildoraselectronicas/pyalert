@@ -1,5 +1,6 @@
 # pyalert
-1-.Programa realizado en Python para Windows para guardar y alertar recordatorios programados que saltan en una ventana emergente en fecha y hora seleccionada. El archivo es portabable y se puede ejecutar tanto en cualquier ubicacion del PC o en una unidad USB. Al ejecutarse el archivo genera en la misma ubicacion un archivo de base de datos para el almacenaje de los recordatorios. Los recordatorios se eliminan automaticamente al vencimiento. En cada recordatorio, cuando llega la hora del vencimiento, salta una ventana emergente con una señal de alerta para que no pase desapercibida.
+# python 3
+1-.Programa realizado en Python para Windows para guardar y alertar recordatorios programados que saltan en una ventana emergente en fecha y hora seleccionada. El archivo es portabable y se puede ejecutar tanto en cualquier ubicacion del PC o en una unidad USB. Al ejecutarse el archivo genera en la misma ubicacion un archivo de base de datos para el almacenaje de los recordatorios. Los recordatorios se eliminan automaticamente al vencimiento. En cada recordatorio, cuando llega la hora del vencimiento, salta una ventana emergente con una señal de alerta para que no pase desapercibida. Muy útil para guardar recordatorios a nivel local en tu PC o memoria USB para mas provacidad y sin tener que compartirlo en la nube.
 
 2-.Verificador HASH SHA256:
 6CEAF2806CB9DB2676B5B1BE2A3DED04F5452315F5E42BA77BE4A19E5D2FB50B
