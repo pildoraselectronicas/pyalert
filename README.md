@@ -10,3 +10,5 @@ Interfaz muy intuitiva y facil de programar:
 <img width="687" height="927" alt="image" src="https://github.com/user-attachments/assets/53cb07ba-86ce-4e39-a106-3aa59aa14333" />
 
 <img width="536" height="506" alt="image" src="https://github.com/user-attachments/assets/3f7d351a-fc1b-4150-922f-4bad6fbda3a3" />
+
+<img width="1182" height="778" alt="image" src="https://github.com/user-attachments/assets/7fa4d91f-baf2-4ab7-93ad-fd3cb7c8d396" />
