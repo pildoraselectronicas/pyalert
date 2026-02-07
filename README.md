@@ -4,7 +4,7 @@
 2-.Verificador HASH SHA256:
 6CEAF2806CB9DB2676B5B1BE2A3DED04F5452315F5E42BA77BE4A19E5D2FB50B
 
-Interfaz muy intuitiva y facil de programar:
+3-.Interfaz muy intuitiva y facil de programar:
 
 
 <img width="687" height="927" alt="image" src="https://github.com/user-attachments/assets/53cb07ba-86ce-4e39-a106-3aa59aa14333" />
