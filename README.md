@@ -8,10 +8,13 @@
 
 
 <img width="687" height="927" alt="image" src="https://github.com/user-attachments/assets/53cb07ba-86ce-4e39-a106-3aa59aa14333" />
+
 Ventana principal
 
 <img width="536" height="506" alt="image" src="https://github.com/user-attachments/assets/3f7d351a-fc1b-4150-922f-4bad6fbda3a3" />
+
 Notas de la version.
 
 <img width="1182" height="778" alt="image" src="https://github.com/user-attachments/assets/7fa4d91f-baf2-4ab7-93ad-fd3cb7c8d396" />
+
 Ventana emergente con señal acustica intermitente con la alerta.
