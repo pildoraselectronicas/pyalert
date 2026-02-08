@@ -1,10 +1,13 @@
 # PyAlert v2.0
 1-.Programa realizado en Python para Windows para guardar y alertar recordatorios programados que saltan en una ventana emergente en fecha y hora seleccionada. El archivo es portabable y se puede ejecutar tanto en cualquier ubicacion del PC o en una unidad USB. Al ejecutarse el archivo genera en la misma ubicacion un archivo de base de datos para el almacenaje de los recordatorios. Los recordatorios se eliminan automaticamente al vencimiento. En cada recordatorio, cuando llega la hora del vencimiento, salta una ventana emergente con una señal de alerta para que no pase desapercibida. Muy útil para guardar recordatorios a nivel local en tu PC o memoria USB para mas provacidad y sin tener que compartirlo en la nube.
 
-2-.Verificador HASH SHA256 para descarga segura:
+2-.Verificador HASH SHA256 para pyalertv2.exe:
 6CEAF2806CB9DB2676B5B1BE2A3DED04F5452315F5E42BA77BE4A19E5D2FB50B
 
-3-.Interfaz muy intuitiva y facil de programar:
+3-. Verificador HASH SHA256 para la el download zip pyalert-main.zip:
+40CC9EDFA6A3C3D459548F40A6FA7AC954314848EBF9C22828C9FFE21BD4CBAA
+
+4-.Interfaz muy intuitiva y facil de programar:
 
 
 <img width="687" height="927" alt="image" src="https://github.com/user-attachments/assets/53cb07ba-86ce-4e39-a106-3aa59aa14333" />
